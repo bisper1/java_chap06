@@ -10,7 +10,6 @@ public class Car1Ex {
 		System.out.println(myCar1.cc);
 		System.out.println(myCar1.color);
 		System.out.println(myCar1.model);
-		
 	}
 
 }
